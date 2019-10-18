@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -41,3 +42,12 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/.idea/.gitignore
+/.idea/.idea.CustomerFile/.idea/contentModel.xml
+/CustomerFile/obj/Debug/CustomerFile.csprojAssemblyReference.cache
+/.idea/.idea.CustomerFile/.idea/encodings.xml
+/.idea/.idea.CustomerFile/.idea/indexLayout.xml
+/.idea/.idea.CustomerFile/.idea/modules.xml
+/.idea/.idea.CustomerFile/.idea/projectSettingsUpdater.xml
+/.idea/.idea.CustomerFile/riderModule.iml
+/.idea/.idea.CustomerFile/.idea/vcs.xml
